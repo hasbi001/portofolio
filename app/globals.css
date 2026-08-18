@@ -34,3 +34,27 @@ body {
     linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
   background-size: 40px 40px;
 }
+
+
+.slider-track {
+  display: flex;
+  will-change: transform;
+}
+
+.slider-card {
+  flex: 0 0 min(78vw, 360px);
+  transition:
+    border-color 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.slider-card:hover {
+  border-color: rgba(139, 92, 246, 0.35);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+}
+
+@media (min-width: 768px) {
+  .slider-card {
+    flex-basis: 390px;
+  }
+}

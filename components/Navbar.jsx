@@ -1,12 +1,20 @@
 import { Menu } from "lucide-react";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+import Image from "next/image";
 
 export default function Navbar() {
   return (
     <header className="fixed top-0 z-50 w-full border-b border-white/5 bg-[#070b14]/75 backdrop-blur-xl">
       <nav className="container-page flex h-18 items-center justify-between">
         <a href="#" className="text-xl font-bold tracking-tight">
-          <span className="text-violet-400">&lt;</span>YN<span className="text-cyan-300">/&gt;</span>
+          <span className="text-violet-400">
+            <Image
+              src="/images/logo.png"
+              alt="Logo"
+              width={45}
+              height={45}
+            />
+          </span>
         </a>
 
         <div className="hidden items-center gap-8 md:flex">
