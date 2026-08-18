@@ -465,7 +465,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="#"
+                  href="/document/CV_Hasbi_Ali_Firdaus.pdf"
                   className="inline-flex items-center gap-2 rounded-full border border-white/15 px-6 py-3 text-gray-300 hover:bg-white/5"
                 >
                   <Download size={17} />
@@ -584,7 +584,7 @@ export default function Home() {
                 Available for senior engineering, technical lead and software architecture opportunities.
               </p>
               <a href="mailto:hasbialifirdaus001@gmail.com" className="mt-8 inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 font-semibold text-black">
-                <Mail size={18}/> hasbialifirdaus001@gmail.com
+                <Mail size={18}/> Send Email
               </a>
             </div>
           </div>
