@@ -166,9 +166,55 @@ const experiences = [
   {
     id: "exp-1",
 
+    icon: "/images/icon-silverlake.png",
+
+    period: "August 2026 — Present",
+
+    title:
+      "Senior Software Engineer",
+
+    company:
+      "PT Structured Service (Silverlake)",
+
+    summary:
+      "Leading backend engineering, architecture and technical delivery for enterprise applications.",
+
+    description:
+      "Responsible for technical direction, Frontend development, backend architecture, development standards and delivery of scalable enterprise software.",
+
+    tags: [
+      "Java",
+      "Spring Boot",
+      "Architecture",
+      "Leadership",
+      "Microservices",
+      "Laravel",
+      "React.js",
+      "Project management",
+      "Redis",
+      "Git"
+    ],
+
+    responsibilities: [
+      "1. Led 5 developers across backend and frontend development",
+      "2. Reduced Oracle query execution time by 30% through indexing strategy and SQL optimization",
+      "3. Built interactive dashboards for transaction monitoring and reporting",
+      "4. Presented technicalsolutions and project progressto stakeholders and clients",
+      "5. Conducted thorough code reviews to identify potential areas for improvement, ultimately enhancing code quality across all projects handled by the team."
+    ],
+
+    achievements: [
+      "Improved maintainability through cleaner architecture.",
+      "Standardized development practices.",
+    ],
+  },
+  
+  {
+    id: "exp-2",
+
     icon: "/images/icon-pam.png",
 
-    period: "march 2025 — Present",
+    period: "march 2025 — August 2026",
 
     title:
       "Senior Software Engineer / Technical Lead",
@@ -210,7 +256,7 @@ const experiences = [
   },
 
   {
-    id: "exp-2",
+    id: "exp-3",
 
     icon: "/images/icon-infomedia.png",
 
@@ -257,7 +303,7 @@ const experiences = [
   },
 
   {
-    id: "exp-3",
+    id: "exp-4",
 
     icon: "/images/icon-dans.png",
 
@@ -306,7 +352,7 @@ const experiences = [
   },
 
   {
-    id: "exp-4",
+    id: "exp-5",
 
     icon: "/images/icon-nadyne.png",
 
@@ -366,7 +412,7 @@ const experiences = [
   },
 
   {
-    id: "exp-5",
+    id: "exp-6",
 
     icon: "/images/icon-goc.png",
 
@@ -593,7 +639,7 @@ export default function Home() {
 
       <footer className="border-t border-white/5 py-8">
         <div className="container-page flex flex-col justify-between gap-3 text-sm text-gray-500 sm:flex-row">
-          <p>© 2026 Your Name. All rights reserved.</p>
+          <p>© 2026 Hasbi Ali Firdaus. All rights reserved.</p>
           <a href="#" className="hover:text-white">Back to top ↑</a>
         </div>
       </footer>
