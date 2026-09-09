@@ -163,52 +163,52 @@ const projects = [
 ];
 
 const experiences = [
-  {
-    id: "exp-1",
+  // {
+  //   id: "exp-1",
 
-    icon: "/images/icon-silverlake.png",
+  //   icon: "/images/icon-silverlake.png",
 
-    period: "August 2026 — Present",
+  //   period: "August 2026 — Present",
 
-    title:
-      "Senior Software Engineer",
+  //   title:
+  //     "Senior Software Engineer",
 
-    company:
-      "PT Structured Service (Silverlake)",
+  //   company:
+  //     "PT Structured Service (Silverlake)",
 
-    summary:
-      "Leading backend engineering, architecture and technical delivery for enterprise applications.",
+  //   summary:
+  //     "Leading backend engineering, architecture and technical delivery for enterprise applications.",
 
-    description:
-      "Responsible for technical direction, Frontend development, backend architecture, development standards and delivery of scalable enterprise software.",
+  //   description:
+  //     "Responsible for technical direction, Frontend development, backend architecture, development standards and delivery of scalable enterprise software.",
 
-    tags: [
-      "Java",
-      "Spring Boot",
-      "Architecture",
-      "Leadership",
-      "Microservices",
-      "RabbitMQ/Kafka",
-      "Elastic Search",
-      "React.js",
-      "Project management",
-      "Redis",
-      "Git"
-    ],
+  //   tags: [
+  //     "Java",
+  //     "Spring Boot",
+  //     "Architecture",
+  //     "Leadership",
+  //     "Microservices",
+  //     "RabbitMQ/Kafka",
+  //     "Elastic Search",
+  //     "React.js",
+  //     "Project management",
+  //     "Redis",
+  //     "Git"
+  //   ],
 
-    responsibilities: [
-      "1. Led 5 developers across backend and frontend development",
-      "2. Reduced Oracle query execution time by 30% through indexing strategy and SQL optimization",
-      "3. Built interactive dashboards for transaction monitoring and reporting",
-      "4. Presented technicalsolutions and project progressto stakeholders and clients",
-      "5. Conducted thorough code reviews to identify potential areas for improvement, ultimately enhancing code quality across all projects handled by the team."
-    ],
+  //   responsibilities: [
+  //     "1. Led 5 developers across backend and frontend development",
+  //     "2. Reduced Oracle query execution time by 30% through indexing strategy and SQL optimization",
+  //     "3. Built interactive dashboards for transaction monitoring and reporting",
+  //     "4. Presented technicalsolutions and project progressto stakeholders and clients",
+  //     "5. Conducted thorough code reviews to identify potential areas for improvement, ultimately enhancing code quality across all projects handled by the team."
+  //   ],
 
-    achievements: [
-      "Improved maintainability through cleaner architecture.",
-      "Standardized development practices.",
-    ],
-  },
+  //   achievements: [
+  //     "Improved maintainability through cleaner architecture.",
+  //     "Standardized development practices.",
+  //   ],
+  // },
   
   {
     id: "exp-2",
