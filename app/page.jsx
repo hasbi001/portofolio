@@ -171,7 +171,7 @@ const experiences = [
     period: "August 2026 — Present",
 
     title:
-      "Senior Software Engineer",
+      "Senior Java Software Engineer",
 
     company:
       "PT Structured Service (Silverlake)",
@@ -197,11 +197,12 @@ const experiences = [
     ],
 
     responsibilities: [
-      "1. Led 5 developers across backend and frontend development",
-      "2. Reduced Oracle query execution time by 30% through indexing strategy and SQL optimization",
-      "3. Built interactive dashboards for transaction monitoring and reporting",
-      "4. Presented technicalsolutions and project progressto stakeholders and clients",
-      "5. Conducted thorough code reviews to identify potential areas for improvement, ultimately enhancing code quality across all projects handled by the team."
+      "1. Developed and maintained enterprise backend applications using Java and Spring Boot.",
+      "2. Designed and implemented REST APIs to support customer information and origination workflows.",
+      "3. Integrated application services with MySQL databases using JPA/Hibernate for data persistence and transaction processing.",
+      "4. Implemented business validation, data mapping, and error handling to ensure data consistency and application reliability.",
+      "5. Troubleshot and resolved backend issues involving database operations, API requests, and application logic.",
+      "6. Integrated frontend components with backend REST APIs to ensure seamless data exchange and business process execution."
     ],
 
     achievements: [
